@@ -47,7 +47,7 @@ embedding_model = HuggingFaceEmbeddings(
     model_name=EMBEDDING_MODEL_NAME,
     # multi_process=True,
     # model_kwargs={"device": "cuda"},
-    encode_kwargs={"normalize_embeddings": False, "pooling": "cls"},
+    encode_kwargs={"normalize_embeddings": False},
 )
 
 VECTOR_BASE = FAISS.from_documents(
