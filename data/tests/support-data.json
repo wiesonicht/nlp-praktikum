@@ -1,0 +1,2466 @@
+[
+    {
+        "query": "What percentage of liver transplantation programs around the world at that time in 2001 discontinued methadone treatment for patients?",
+        "referenced_doc_id": "44265107"
+    },
+    {
+        "query": "Does taking 40mg/day folic acid and 2mg/day vitamin B12 supplementation have a minimal impact on the progression of chronic kidney disease?",
+        "referenced_doc_id": "33409100"
+    },
+    {
+        "query": "Does taking 40mg/day of folic acid and 2mg/day of vitamin B12 have a significant impact on the progression of chronic kidney disease?",
+        "referenced_doc_id": "33409100"
+    },
+    {
+        "query": "What is the main issue in providing mental health services to individuals living in low and middle-income countries?",
+        "referenced_doc_id": "6490571"
+    },
+    {
+        "query": "What role does the patient's metabolic ability play in determining the effectiveness of tamoxifen therapy?",
+        "referenced_doc_id": "24341590"
+    },
+    {
+        "query": "What factors can impact a breast cancer patient's ability to effectively metabolize tamoxifen and how might this influence their overall treatment outcome?",
+        "referenced_doc_id": "24341590"
+    },
+    {
+        "query": "What role does a person's ability to metabolize tamoxifen play in determining their likelihood of responding to and benefiting from this medication?",
+        "referenced_doc_id": "24341590"
+    },
+    {
+        "query": "What role do genetic variations play in determining an individual's response to tamoxifen in breast cancer treatment?",
+        "referenced_doc_id": "24341590"
+    },
+    {
+        "query": "What is the relationship between folate deficiency and elevated homocysteine levels in the blood?",
+        "referenced_doc_id": "11705328"
+    },
+    {
+        "query": "Does a diminished ovarian reserve only affect individuals who have attempted to conceive naturally?",
+        "referenced_doc_id": "13497630"
+    },
+    {
+        "query": "Does the presence of a diminished ovarian reserve in an otherwise healthy and fertile individual increase their risk of infertility?",
+        "referenced_doc_id": "13497630"
+    },
+    {
+        "query": "Does a diminished ovarian reserve necessarily imply infertility?",
+        "referenced_doc_id": "13497630"
+    },
+    {
+        "query": "Does the presence of a diminished ovarian reserve in individuals not experiencing reproductive issues suggest that they may also experience fertility problems?",
+        "referenced_doc_id": "13497630"
+    },
+    {
+        "query": "Does having a diminished ovarian reserve necessarily mean you'll struggle to get pregnant even if you're already fertile?",
+        "referenced_doc_id": "13497630"
+    },
+    {
+        "query": "What is the effect of a low red blood cell count on individuals with the alpha+ thalassemia trait?",
+        "referenced_doc_id": "18174210"
+    },
+    {
+        "query": "What is the role of a high microerythrocyte count in individuals with the alpha (+)-thalassemia trait?",
+        "referenced_doc_id": "18174210"
+    },
+    {
+        "query": "Is a genetic mutation in HNF4A a known factor contributing to the onset of type 1 diabetes?",
+        "referenced_doc_id": "56893404"
+    },
+    {
+        "query": "Is there a specific gene or DNA sequence that has been linked to an increased risk of hypospadias?",
+        "referenced_doc_id": "380526"
+    },
+    {
+        "query": "Here is the reformulation of the fact into a general question:\n\nWhat is the relationship between phage genome location and the origin of its spacers?",
+        "referenced_doc_id": "26996935"
+    },
+    {
+        "query": "What role does ALDH1 play in breast cancer?",
+        "referenced_doc_id": "45638119"
+    },
+    {
+        "query": "Is activating AMP-activated protein kinase (AMPK) effective in reducing lung inflammation and fibrosis?",
+        "referenced_doc_id": "49556906"
+    },
+    {
+        "query": "What is the effect of activating AMP-activated protein kinase (AMPK) on fibrosis related to inflammation in the lungs?",
+        "referenced_doc_id": "49556906"
+    },
+    {
+        "query": "Does activating AMP-activated protein kinase (AMPK) reduce lung fibrosis related to inflammation?",
+        "referenced_doc_id": "49556906"
+    },
+    {
+        "query": "What is the primary mechanism by which Antiretroviral Therapy (ART) effectively reduces the infectiveness of HIV-positive individuals?",
+        "referenced_doc_id": "13899137"
+    },
+    {
+        "query": "Does ART reduce the infectivity of HIV-positive individuals?",
+        "referenced_doc_id": "13899137"
+    },
+    {
+        "query": "Does ART (Antiretroviral Therapy) reduce the infectiveness of HIV-positive individuals?",
+        "referenced_doc_id": "13899137"
+    },
+    {
+        "query": "What is the interaction between activated CDK5 and the ATM protein in the context of DNA damage response?",
+        "referenced_doc_id": "21295300"
+    },
+    {
+        "query": "What is the relationship between activated CDK5 and the ATM protein in terms of their interaction in response to DNA damage?",
+        "referenced_doc_id": "21295300"
+    },
+    {
+        "query": "What is the role of Cdk5 in regulating cell survival and death after exposure to DNA damage?",
+        "referenced_doc_id": "21295300"
+    },
+    {
+        "query": "What is the mechanism by which activation of the CED-10 protein leads to cell death in mutant Caenorhabditis elegans?",
+        "referenced_doc_id": "1127562"
+    },
+    {
+        "query": "What is the role of active Ly49Q in inducing neutrophil polarization?",
+        "referenced_doc_id": "5531479"
+    },
+    {
+        "query": "What is the mechanism of action that leads to neutrophil polarization upon activation by active Ly49Q?",
+        "referenced_doc_id": "5531479"
+    },
+    {
+        "query": "Does active caspase-11 play a role in controlling the process of phagosome-lysosome fusion?",
+        "referenced_doc_id": "5099266"
+    },
+    {
+        "query": "What is the role of active caspase-11 in promoting pyroptosis?",
+        "referenced_doc_id": "5099266"
+    },
+    {
+        "query": "What is the role of active caspase-11 in promoting pyroptosis?",
+        "referenced_doc_id": "5099266"
+    },
+    {
+        "query": "What role do adult tissue-resident macrophages play in fetal development?",
+        "referenced_doc_id": "7521113"
+    },
+    {
+        "query": "What is the role of adult tissue-resident macrophages in foetal development?",
+        "referenced_doc_id": "22406695"
+    },
+    {
+        "query": "Are adult cells that reside in the tissues of an infant born at some stage of their life?",
+        "referenced_doc_id": "7521113"
+    },
+    {
+        "query": "Do adult tissues have pre-existing resident macrophage populations that develop in utero?",
+        "referenced_doc_id": "22406695"
+    },
+    {
+        "query": "Do adult tissue-resident macrophages have the ability to renew themselves?",
+        "referenced_doc_id": "7521113"
+    },
+    {
+        "query": "What triggers the amplification of inflammatory responses in severe cases?",
+        "referenced_doc_id": "2692522"
+    },
+    {
+        "query": "Does NLRP3 inflammasome activation play a crucial role in aggravating inflammatory responses?",
+        "referenced_doc_id": "2692522"
+    },
+    {
+        "query": "Does Amitriptyline effectively treat chronic tension-type headaches?",
+        "referenced_doc_id": "6191684"
+    },
+    {
+        "query": "Is Amitriptyline effective in treating chronic tension-type headaches?",
+        "referenced_doc_id": "6191684"
+    },
+    {
+        "query": "What are the common side effects of taking Amitriptyline?",
+        "referenced_doc_id": "6191684"
+    },
+    {
+        "query": "What type of medication is used to treat chronic tension-type headaches?",
+        "referenced_doc_id": "22995579"
+    },
+    {
+        "query": "Is Amitriptyline effective in treating chronic tension-type headaches?",
+        "referenced_doc_id": "22995579"
+    },
+    {
+        "query": "Is Amitriptyline an effective treatment option for chronic tension-type headaches?",
+        "referenced_doc_id": "23865182"
+    },
+    {
+        "query": "Is Amitriptyline used to treat chronic tension-type headaches effectively?",
+        "referenced_doc_id": "23865182"
+    },
+    {
+        "query": "Is Amitriptyline used as a treatment for chronic tension-type headaches?",
+        "referenced_doc_id": "23865182"
+    },
+    {
+        "query": "Does Amitriptyline help alleviate chronic tension-type headaches?",
+        "referenced_doc_id": "23865182"
+    },
+    {
+        "query": "What triggers an M2-like phenotype in brown adipose tissue macrophages under cold conditions?",
+        "referenced_doc_id": "4319174"
+    },
+    {
+        "query": "Can androgenetic haploid mouse ESCs be used for genetic manipulation in an in vitro setting?",
+        "referenced_doc_id": "13513790"
+    },
+    {
+        "query": "What are Androgenetic Haploid Mouse Embryonic Stem Cells?",
+        "referenced_doc_id": "13513790"
+    },
+    {
+        "query": "What methods are most effective for safely disposing of anthrax spores that have been released and are no longer in a dormant state?",
+        "referenced_doc_id": "33872649"
+    },
+    {
+        "query": "Does anthrax spore survival in contaminated environments depend on proper cleaning and disinfection?",
+        "referenced_doc_id": "33872649"
+    },
+    {
+        "query": "Do antidepressants help alleviate migraine symptoms?",
+        "referenced_doc_id": "14606752"
+    },
+    {
+        "query": "What medications are commonly used to treat migraines?",
+        "referenced_doc_id": "14606752"
+    },
+    {
+        "query": "Do antidepressants help alleviate migraine symptoms?",
+        "referenced_doc_id": "14606752"
+    },
+    {
+        "query": "What factors contribute to the decrease in effectiveness of antimicrobial agents?",
+        "referenced_doc_id": "31460499"
+    },
+    {
+        "query": "What is the key difference in graft function between autologous transplantation of mesenchymal stem cells and induction therapy using anti-interleukin-2 receptor antibodies?",
+        "referenced_doc_id": "10582939"
+    },
+    {
+        "query": "What is the advantage of using autologous transplantation of mesenchymal stem cells over induction therapy with anti-interleukin-2 receptor antibodies in terms of graft function?",
+        "referenced_doc_id": "10582939"
+    },
+    {
+        "query": "Is autologous transplantation of mesenchymal stem cells generally considered superior to immunotherapy using interleukin-2 receptor antibodies for organ transplants?",
+        "referenced_doc_id": "10582939"
+    },
+    {
+        "query": "What is the role of EBI2 in the process of B cell maturation?",
+        "referenced_doc_id": "15488881"
+    },
+    {
+        "query": "What is the mechanism through which B cells acquire antibody-producing capabilities?",
+        "referenced_doc_id": "15488881"
+    },
+    {
+        "query": "What is the effect of BCL-2 on cell apoptosis when it is activated?",
+        "referenced_doc_id": "37549932"
+    },
+    {
+        "query": "What is the function of the BLM gene in relation to DNA repair and replication?",
+        "referenced_doc_id": "13439128"
+    },
+    {
+        "query": "Does the location of a BRCA 1 mutation in an individual's DNA affect their risk of developing breast and ovarian cancers?",
+        "referenced_doc_id": "9394119"
+    },
+    {
+        "query": "Does the location of the BRCA 1 mutation affect the risk of developing breast and ovarian cancers?",
+        "referenced_doc_id": "9394119"
+    },
+    {
+        "query": "Is bacterial meningitis diagnosis possible through CSF culture?",
+        "referenced_doc_id": "52874170"
+    },
+    {
+        "query": "Does bariatric surgery increase the risk of developing or exacerbating colorectal cancer?",
+        "referenced_doc_id": "5824985"
+    },
+    {
+        "query": "Does bariatric surgery affect breast cancer risk in postmenopausal women?",
+        "referenced_doc_id": "5824985"
+    },
+    {
+        "query": "Does bariatric surgery have a significant impact on patients' overall mental well-being?",
+        "referenced_doc_id": "18872233"
+    },
+    {
+        "query": "Does bariatric surgery have a significant impact on improving mental health outcomes for individuals with obesity?",
+        "referenced_doc_id": "18872233"
+    },
+    {
+        "query": "What role do basophils play in exacerbating autoimmune diseases like systemic lupus erythematosus?",
+        "referenced_doc_id": "12670680"
+    },
+    {
+        "query": "What role do basophils play in the progression of autoimmune diseases like systemic lupus erythematosus?",
+        "referenced_doc_id": "12670680"
+    },
+    {
+        "query": "What role do basophils play in the progression of systemic lupus erythematosus (SLE)?",
+        "referenced_doc_id": "12670680"
+    },
+    {
+        "query": "What is the role of p53 binding to enhancer regions in regulating p53 activity?",
+        "referenced_doc_id": "9669099"
+    },
+    {
+        "query": "What is the process by which binding of p53 to enhancer regions activates its transcription and induces cell cycle arrest?",
+        "referenced_doc_id": "9669099"
+    },
+    {
+        "query": "What does blocking the interaction between TDP-43 and respiratory complex I proteins like ND3 and ND6 help to prevent?",
+        "referenced_doc_id": "16966326"
+    },
+    {
+        "query": "What are bone marrow cells involved in?",
+        "referenced_doc_id": "12827098"
+    },
+    {
+        "query": "Does HIV-1 neutralizing antibodies (bnAbs) with structure 10Eb exhibit any interaction with phospholipids?",
+        "referenced_doc_id": "4421578"
+    },
+    {
+        "query": "What is the mechanism by which C2 and A-769662 interact?",
+        "referenced_doc_id": "19313533"
+    },
+    {
+        "query": "Is CCL19 a chemokine that acts as a ligand for the CCR7 receptor?",
+        "referenced_doc_id": "2177022"
+    },
+    {
+        "query": "What is the mechanism by which CD28 initiates tonic signaling in conventional T cells?",
+        "referenced_doc_id": "18231807"
+    },
+    {
+        "query": "What is the role of CD28 in regulating the migration and activation of autoreactive T cells?",
+        "referenced_doc_id": "2462673"
+    },
+    {
+        "query": "What role do CD28 signals play in regulating the trafficking of immune cells?",
+        "referenced_doc_id": "2462673"
+    },
+    {
+        "query": "What role does Copia coatmer play in maintaining lipid balance in the body?",
+        "referenced_doc_id": "13794374"
+    },
+    {
+        "query": "What role does Copeptin play in maintaining lipid balance?",
+        "referenced_doc_id": "13794374"
+    },
+    {
+        "query": "What role does Cholesterol Oxidation Inhibitor (COPI) play in maintaining proper lipid metabolism?",
+        "referenced_doc_id": "13794374"
+    },
+    {
+        "query": "Is beige fat cells involved in regulating overall body energy metabolism?",
+        "referenced_doc_id": "19205437"
+    },
+    {
+        "query": "What is the role of calcium ions (Ca2+) in regulating body energy homeostasis?",
+        "referenced_doc_id": "19205437"
+    },
+    {
+        "query": "Is Ca2+ cycling an independent thermogenic process that doesn't require the presence of UCP1?",
+        "referenced_doc_id": "19205437"
+    },
+    {
+        "query": "Is Ca2+ cycling an independent mechanism for thermogenesis in the body?",
+        "referenced_doc_id": "19205437"
+    },
+    {
+        "query": "Can cancer cells increase the number of immune- suppressing cells in tumors through increased production of a specific cytokine?",
+        "referenced_doc_id": "2014909"
+    },
+    {
+        "query": "What are the underlying reasons why cancers that initially respond well to epidermal growth factor receptor (EGFR) targeted therapies may eventually develop resistance?",
+        "referenced_doc_id": "26973393"
+    },
+    {
+        "query": "What role do cardiac tissue-resident macrophages play in influencing electrical activity within the heart?",
+        "referenced_doc_id": "4928057"
+    },
+    {
+        "query": "Do cardiac tissue-resident macrophages play a role in generating and modulating electrical activity within the heart?",
+        "referenced_doc_id": "4928057"
+    },
+    {
+        "query": "What role do cardiac tissue-resident macrophages play in generating and maintaining the electrical properties of the heart?",
+        "referenced_doc_id": "4928057"
+    },
+    {
+        "query": "What role do macrophages play in cardiac tissue regarding electrical activity?",
+        "referenced_doc_id": "4928057"
+    },
+    {
+        "query": "What is the process by which cell-autonomous mechanisms control the sex of birds?",
+        "referenced_doc_id": "4388470"
+    },
+    {
+        "query": "Does cell-autonomous sex determination occur in Galliformes?",
+        "referenced_doc_id": "4388470"
+    },
+    {
+        "query": "Does cell-autonomous sex determination occur in galliform birds?",
+        "referenced_doc_id": "4388470"
+    },
+    {
+        "query": "What is the relationship between cellular clocks and the cell cycle?",
+        "referenced_doc_id": "2212067"
+    },
+    {
+        "query": "What are the key mechanisms involved in cellular differentiation of embryonic stem cells?",
+        "referenced_doc_id": "8148122"
+    },
+    {
+        "query": "Is charcoal effective in treating acute paraquat poisoning?",
+        "referenced_doc_id": "3430789"
+    },
+    {
+        "query": "Does Chenodeoxycholic acid affect brown fat activity?",
+        "referenced_doc_id": "1568684"
+    },
+    {
+        "query": "What percentage of sexually experienced individuals under 25 in the UK are most likely to have contracted Chlamydia trachomatis?",
+        "referenced_doc_id": "5850219"
+    },
+    {
+        "query": "What is the effect of cholesterol loading on vascular smooth muscle cells (VSMCs), particularly how it affects the expression of Kr\u00fcppel-like factor 4 (KLF4) and its subsequent induction of pro-inflammatory cytokines?",
+        "referenced_doc_id": "22080671"
+    },
+    {
+        "query": "What is the role of citrullinated proteins in the development of autoimmune inflammation?",
+        "referenced_doc_id": "11328820"
+    },
+    {
+        "query": "What is the role of clathrin in cell division?",
+        "referenced_doc_id": "2033917"
+    },
+    {
+        "query": "What is the mechanism by which clathrin helps to stabilize the spindle fiber apparatus?",
+        "referenced_doc_id": "2033917"
+    },
+    {
+        "query": "What is the role of clathrin in regulating the structure and function of mitotic spindles?",
+        "referenced_doc_id": "2033917"
+    },
+    {
+        "query": "What role does the cell cycle play in determining CNN1 recruitment?",
+        "referenced_doc_id": "22405338"
+    },
+    {
+        "query": "What role do the phases of the cell cycle play in determining the efficiency and timing of CNN1 recruitment?",
+        "referenced_doc_id": "22405338"
+    },
+    {
+        "query": "Can combining nicotine replacement therapies (such as gum or lozenges) with either varenicline or bupropion be more effective for treating smoking addiction than using varenicline alone over a period of 12 weeks?",
+        "referenced_doc_id": "11614737"
+    },
+    {
+        "query": "What are the three typical badnavirus open reading frames (ORFs) encoded by the Commelina yellow mottle virus?",
+        "referenced_doc_id": "14376683"
+    },
+    {
+        "query": "What are the genes that provide the basis for comparing the full set of protein transcripts from different platelets?",
+        "referenced_doc_id": "25001628"
+    },
+    {
+        "query": "What is the potential outcome for human brain cells (iPSC-derived neurons) when apoE4 is converted to apoE3 through gene editing?",
+        "referenced_doc_id": "4709641"
+    },
+    {
+        "query": "What does this statement mean?",
+        "referenced_doc_id": "15048300"
+    },
+    {
+        "query": "What is the relationship between cost-effectiveness evaluations of clinical research and their external validity?",
+        "referenced_doc_id": "15048300"
+    },
+    {
+        "query": "Is cost-effectiveness evaluations of clinical trial results limited by their reliance on Results From Controlled Trials (RCT) data?",
+        "referenced_doc_id": "15048300"
+    },
+    {
+        "query": "What molecular mechanism underlies the transition of karyothorae (kt-mt) attachments during mitosis?",
+        "referenced_doc_id": "4398832"
+    },
+    {
+        "query": "Is cyclin A2 essential for transitioning cells from an unstable to a stable phase during mitosis?",
+        "referenced_doc_id": "4398832"
+    },
+    {
+        "query": "Is cyclin A2 required for the transition of karyokinase-like (kt)-mt-attaching enzyme activity during mitosis?",
+        "referenced_doc_id": "4398832"
+    },
+    {
+        "query": "What role do DRD1 proteins play in facilitating Pol V transcription?",
+        "referenced_doc_id": "14797520"
+    },
+    {
+        "query": "Does DUSP4 activation contribute to increased programmed cell death?",
+        "referenced_doc_id": "7821634"
+    },
+    {
+        "query": "Here's a more general question:\n\nHow does the depletion of Th17 cells impact the spread of pathogens in the gut?",
+        "referenced_doc_id": "29023309"
+    },
+    {
+        "query": "Here is a more general question and its direct answer:\n\nWhat role do Th17 cells play in increasing the spread of bacterial infections like Salmonella Typhimurium?",
+        "referenced_doc_id": "29023309"
+    },
+    {
+        "query": "What causes vasospasm in arteries?",
+        "referenced_doc_id": "25079962"
+    },
+    {
+        "query": "What causes nitric oxide depletion to lead to vasospasm?",
+        "referenced_doc_id": "25079962"
+    },
+    {
+        "query": "What is the mechanism behind vasospasm caused by depletion of nitric oxide?",
+        "referenced_doc_id": "25079962"
+    },
+    {
+        "query": "What role does deregulation of HAND2 play in cancer development?",
+        "referenced_doc_id": "1780819"
+    },
+    {
+        "query": "Does using dexamethasone increase the risk of postoperative bleeding?",
+        "referenced_doc_id": "23349986"
+    },
+    {
+        "query": "What is the relationship between dexamethasone use and increased risk of postoperative bleeding?",
+        "referenced_doc_id": "23349986"
+    },
+    {
+        "query": "Is dexamethasone associated with an increased risk of postoperative bleeding?",
+        "referenced_doc_id": "23349986"
+    },
+    {
+        "query": "What is the difference between diabetes remission rates for patients undergoing conventional treatment and those who undergo laparoscopic adjustable gastric banding surgery?",
+        "referenced_doc_id": "7098463"
+    },
+    {
+        "query": "Is diabetes remission rates lower for those receiving conventional treatment compared to those undergoing laparoscopic adjustable gastric banding surgery?",
+        "referenced_doc_id": "7098463"
+    },
+    {
+        "query": "What is the difference in diabetes remission rates between individuals who receive conventional medical treatment versus those who undergo surgical weight loss through gastric banding?",
+        "referenced_doc_id": "7098463"
+    },
+    {
+        "query": "What happens when insulin signaling is blocked in relation to the differentiation of progenitor cells into myeloid cells?",
+        "referenced_doc_id": "11902109"
+    },
+    {
+        "query": "What is the role of actomyosin structures in Drosophila wing development?",
+        "referenced_doc_id": "12800122"
+    },
+    {
+        "query": "What is the presence of supracellular actomyosin structures at the boundaries of wing imaginal discs in Drosophila?",
+        "referenced_doc_id": "38380061"
+    },
+    {
+        "query": "Is DSCAM1 involved in regulating the immune response?",
+        "referenced_doc_id": "6144337"
+    },
+    {
+        "query": "What receptor does Dscam1 use to recognize and bind to pathogens or other foreign substances?",
+        "referenced_doc_id": "6144337"
+    },
+    {
+        "query": "What is the function of the Dishevelled Ca2+ Channel 1 (Dscam1) in the immune system?",
+        "referenced_doc_id": "6144337"
+    },
+    {
+        "query": "What is Dscam1 involved in?",
+        "referenced_doc_id": "6144337"
+    },
+    {
+        "query": "Are genetic variants that affect the ERAP1 gene interaction with specific HLA alleles associated with an increased risk of developing ankylosing spondylitis?",
+        "referenced_doc_id": "13956305"
+    },
+    {
+        "query": "Does early patency of patent ductus arteriosus during hospitalization decrease in-hospital mortality?",
+        "referenced_doc_id": "27099731"
+    },
+    {
+        "query": "Does early detection of patent ductus arteriosus (PDA) during hospitalization reduce in-hospital mortality rates?",
+        "referenced_doc_id": "27099731"
+    },
+    {
+        "query": "What is the effectiveness of combining ectopic expressions of specific genes in inducing pluripotent stem cells (iPSCs) from mouse embryonic fibroblasts?",
+        "referenced_doc_id": "6826100"
+    },
+    {
+        "query": "What role does Egr2 play in regulating the immune system?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What is the role of Egr2 in regulating the immune response?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What role does Egr2 play in controlling the proliferation and survival of B and T cells?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What is the role of Egr2 in regulating the balance between B and T cells?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What is the role of Egr3 in immune cell function?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What role does Egr3 play in controlling the balance between B and T cells?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What is the role of egr3 in immune cell regulation?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What role does egr3 play in regulating B and T cell functions?",
+        "referenced_doc_id": "1550937"
+    },
+    {
+        "query": "What is the effect of the Eilat virus on non-human primates?",
+        "referenced_doc_id": "24922825"
+    },
+    {
+        "query": "What is the relationship between elevated cell-free mitochondrial DNA levels and mortality?",
+        "referenced_doc_id": "1522647"
+    },
+    {
+        "query": "What is the relationship between elevated cell-free mitochondrial DNA levels and overall mortality?",
+        "referenced_doc_id": "1522647"
+    },
+    {
+        "query": "What is the link between elevated cell-free mitochondrial DNA levels and mortality?",
+        "referenced_doc_id": "1522647"
+    },
+    {
+        "query": "What is the role of glutamate in energy balance?",
+        "referenced_doc_id": "45154987"
+    },
+    {
+        "query": "What is the role of hypothalamic glutamate in energy balance?",
+        "referenced_doc_id": "45154987"
+    },
+    {
+        "query": "What is the role of glutamate in regulating energy balance through the hypothalamus?",
+        "referenced_doc_id": "45154987"
+    },
+    {
+        "query": "What is the role of glutamate in regulating energy balance?",
+        "referenced_doc_id": "10534299"
+    },
+    {
+        "query": "What is the role of glutamate in energy balance?",
+        "referenced_doc_id": "10534299"
+    },
+    {
+        "query": "What is the role of glutamate in energy balance?",
+        "referenced_doc_id": "10534299"
+    },
+    {
+        "query": "What is the role of glutamate in energy balance?",
+        "referenced_doc_id": "10534299"
+    },
+    {
+        "query": "What is the role of glutamate in energy balance?",
+        "referenced_doc_id": "11886686"
+    },
+    {
+        "query": "What is the role of glutamate in maintaining energy balance through the hypothalamus?",
+        "referenced_doc_id": "17150648"
+    },
+    {
+        "query": "Does energy balance primarily rely on the transmission of glutamate in the hypothalamus?",
+        "referenced_doc_id": "17150648"
+    },
+    {
+        "query": "What is the role of glutamate in energy balance?",
+        "referenced_doc_id": "17150648"
+    },
+    {
+        "query": "What role do genetic and environmental factors play in the risk of developing breast cancer?",
+        "referenced_doc_id": "18340282"
+    },
+    {
+        "query": "What role do environmental factors play in the potential increase or decrease in the incidence and progression of breast cancer?",
+        "referenced_doc_id": "18340282"
+    },
+    {
+        "query": "What role do environmental factors play in triggering cellular aging and decline?",
+        "referenced_doc_id": "11659421"
+    },
+    {
+        "query": "What role do environmental factors play in accelerating biological aging?",
+        "referenced_doc_id": "11659421"
+    },
+    {
+        "query": "Is excess gestational weight gain linked to increased risks of pregnancy complications and birth defects in obese pregnant women?",
+        "referenced_doc_id": "11360768"
+    },
+    {
+        "query": "What factors contribute to excess gestational weight gain during pregnancy?",
+        "referenced_doc_id": "11360768"
+    },
+    {
+        "query": "What causes excess gestational weight gain to negatively impact pregnancy outcomes?",
+        "referenced_doc_id": "11360768"
+    },
+    {
+        "query": "What are the specific health statistics that show exercise improves cancer survival rates in China?",
+        "referenced_doc_id": "1456068"
+    },
+    {
+        "query": "What role do regular physical exercise play in reducing cancer mortality rates globally?",
+        "referenced_doc_id": "1456068"
+    },
+    {
+        "query": "Does exercise reduce cancer mortality rates in Chinese citizens?",
+        "referenced_doc_id": "1456068"
+    },
+    {
+        "query": "What is the relationship between being a female carrier of the APOE4 allele and the risk of developing Alzheimer's disease?",
+        "referenced_doc_id": "6309659"
+    },
+    {
+        "query": "Does having APOE4 increase a female's lifespan?",
+        "referenced_doc_id": "6309659"
+    },
+    {
+        "query": "What is the role of fibroblast growth factor 21 in protecting against atherosclerosis?",
+        "referenced_doc_id": "9315213"
+    },
+    {
+        "query": "What role do forkhead transcription factors play in regulating cell death and survival?",
+        "referenced_doc_id": "16728949"
+    },
+    {
+        "query": "What role do forkhead transcription factors play in cell differentiation?",
+        "referenced_doc_id": "16728949"
+    },
+    {
+        "query": "What role does Foxk2 play in regulating autophagy?",
+        "referenced_doc_id": "8002887"
+    },
+    {
+        "query": "What role does Foxk2 play in regulating autophagy genes across various cell types?",
+        "referenced_doc_id": "8002887"
+    },
+    {
+        "query": "What is the role of granulocyte-colony stimulating factor (G-CSF) in increasing the number of myeloid-derived suppressor cells (MDSCs) within tumors?",
+        "referenced_doc_id": "2014909"
+    },
+    {
+        "query": "What is the role of GATA3 in the progression of the cell cycle in bone marrow hematopoietic stem cells?",
+        "referenced_doc_id": "10165258"
+    },
+    {
+        "query": "What is the role of GATA3 in regulating the self-renewal capacity of bone marrow hematopoietic stem cells?",
+        "referenced_doc_id": "10165258"
+    },
+    {
+        "query": "What is the role of GATA3 in the regulation of self-renewal capacity in bone marrow hematopoietic stem cells?",
+        "referenced_doc_id": "10165258"
+    },
+    {
+        "query": "What is the relationship between Helicobacter pylori infections and the development of gastric cancer in humans?",
+        "referenced_doc_id": "2052720"
+    },
+    {
+        "query": "What is the relationship between Helicobacter pylori infections and the development of gastric cancer?",
+        "referenced_doc_id": "2052720"
+    },
+    {
+        "query": "What is the role of genes involved in pre-mRNA splicing in maintaining genome stability?",
+        "referenced_doc_id": "12643937"
+    },
+    {
+        "query": "What is the relationship between genetic deficiencies in mast cells and changes in body weight?",
+        "referenced_doc_id": "597790"
+    },
+    {
+        "query": "What is the effect of genetic deletion on gut permeability in individuals?",
+        "referenced_doc_id": "40096222"
+    },
+    {
+        "query": "What does genomic aberration in cancer tissue hold the key to identifying the best treatment options?",
+        "referenced_doc_id": "19736671"
+    },
+    {
+        "query": "What role do glial cells play in regulating brain activity during seizures?",
+        "referenced_doc_id": "1410197"
+    },
+    {
+        "query": "What are the hallmarks of glioblastoma multiforme?",
+        "referenced_doc_id": "12685434"
+    },
+    {
+        "query": "What is the mechanism by which GPR124 exerts its inhibitory effect on beta-amyloid breakdown in mouse models of ischemic stroke?",
+        "referenced_doc_id": "6325527"
+    },
+    {
+        "query": "What is the role of guanine nucleotide exchange factors (GEFs) in activating RhoA?",
+        "referenced_doc_id": "10991183"
+    },
+    {
+        "query": "What is the primary mechanism behind H.pylori-mediated gastric cancer?",
+        "referenced_doc_id": "22703082"
+    },
+    {
+        "query": "What is the primary cause of h.pylori-mediated gastric cancer?",
+        "referenced_doc_id": "22703082"
+    },
+    {
+        "query": "What is the process of methylation in the development and progression of endometrial cancer?",
+        "referenced_doc_id": "1780819"
+    },
+    {
+        "query": "What is the role of methylation in the development of cancer?",
+        "referenced_doc_id": "1780819"
+    },
+    {
+        "query": "What is the process by which the epigenetic modification of DNA methylation involved in cell growth and differentiation plays a crucial role in the development of cancer in the early stages of the female reproductive system?",
+        "referenced_doc_id": "1780819"
+    },
+    {
+        "query": "What role does hand2 methylation play in the development of endometrial cancer?",
+        "referenced_doc_id": "1780819"
+    },
+    {
+        "query": "What is the effect of having a supportive and committed partner on the health and well-being of individuals living with HIV?",
+        "referenced_doc_id": "17077004"
+    },
+    {
+        "query": "Does having a stable and committed main partner contribute to better overall health and well-being for individuals living with HIV?",
+        "referenced_doc_id": "17077004"
+    },
+    {
+        "query": "Is H. pylori infection leading to abnormal DNA mutations through a mechanism involving altered NF-kB activity?",
+        "referenced_doc_id": "22703082"
+    },
+    {
+        "query": "What role does Helicobacter pylori play in causing genetic mutations by altering the expression of a specific enzyme involved in DNA repair?",
+        "referenced_doc_id": "22703082"
+    },
+    {
+        "query": "What role do helminths play in the immune system's ability to control other types of infections?",
+        "referenced_doc_id": "7433668"
+    },
+    {
+        "query": "What role do helminths play in modulating or interfering with the immune response to other microorganisms?",
+        "referenced_doc_id": "7433668"
+    },
+    {
+        "query": "What role do helminths play in controlling infections caused by other microorganisms?",
+        "referenced_doc_id": "7433668"
+    },
+    {
+        "query": "What is the relationship between high cholesterol (CRP) levels and the likelihood of COPD exacerbations?",
+        "referenced_doc_id": "29564505"
+    },
+    {
+        "query": "What is the potential consequence of high cholesterol (CRP) levels on the progression of chronic obstructive pulmonary disease (COPD)?",
+        "referenced_doc_id": "29564505"
+    },
+    {
+        "query": "What is the relationship between high levels of I-carnitine and cardiovascular health?",
+        "referenced_doc_id": "14803797"
+    },
+    {
+        "query": "Is there an association between high levels of I-carnitine and cardiovascular health?",
+        "referenced_doc_id": "14803797"
+    },
+    {
+        "query": "What are the origins of human embryonic stem cells?",
+        "referenced_doc_id": "10546779"
+    },
+    {
+        "query": "Does human embryonic stem cells have the ability to differentiate into cells of all three primary germ layers?",
+        "referenced_doc_id": "25413327"
+    },
+    {
+        "query": "What are the three main embryonic germ layers that human embryonic stem cells can derive from?",
+        "referenced_doc_id": "25413327"
+    },
+    {
+        "query": "What are the embryonic germ layers that human embryonic stem cells can differentiate into?",
+        "referenced_doc_id": "36651210"
+    },
+    {
+        "query": "What type of cell can be derived from human embryonic stem cells?",
+        "referenced_doc_id": "10546779"
+    },
+    {
+        "query": "Can human embryonic stem cells develop into cells that represent all three embryonic germ layers?",
+        "referenced_doc_id": "25413327"
+    },
+    {
+        "query": "Can human embryonic stem cells give rise to cells that represent all three embryonic germ layers?",
+        "referenced_doc_id": "36651210"
+    },
+    {
+        "query": "What is the role of IL-10 produced by monocytes in regulating the immune system, particularly its impact on CD4+ T cell responses?",
+        "referenced_doc_id": "10648422"
+    },
+    {
+        "query": "What is the effect of increased IL-10 production by monocytes on the immune response?",
+        "referenced_doc_id": "10648422"
+    },
+    {
+        "query": "What is the primary mechanism through which interleukin-6 (IL-6) contributes to atherosclerosis?",
+        "referenced_doc_id": "18199839"
+    },
+    {
+        "query": "What is the significance of IL-6 signaling in atherosclerosis?",
+        "referenced_doc_id": "18199839"
+    },
+    {
+        "query": "What is the relationship between geography and the distribution of immune responses within immune cells?",
+        "referenced_doc_id": "3475317"
+    },
+    {
+        "query": "What type of materials are being used to improve the efficiency and stability of catalysts used for open educational resources?",
+        "referenced_doc_id": "20101846"
+    },
+    {
+        "query": "What is the relationship between haplogroup I in British men and their risk of cardiovascular disease?",
+        "referenced_doc_id": "2867345"
+    },
+    {
+        "query": "What happens when you have low levels of essential nutrients in yeast cells?",
+        "referenced_doc_id": "16120395"
+    },
+    {
+        "query": "What is the role of RNA surveillance pathways in yeast (S. cerevisiae) cells?",
+        "referenced_doc_id": "16120395"
+    },
+    {
+        "query": "What is the effect on yeast cells in S. cerevisiae when they lack RNA surveillance pathways under high iron conditions?",
+        "referenced_doc_id": "16120395"
+    },
+    {
+        "query": "Does blocking Wingless-Int-1 secretion in mouse embryonic stem cells hinder self-renewal?",
+        "referenced_doc_id": "23418635"
+    },
+    {
+        "query": "Is blocking Wingless-Int-1 secretion from mouse embryonic stem cells affecting self-renewal in the context of embryonic development?",
+        "referenced_doc_id": "23418635"
+    },
+    {
+        "query": "Does blocking Wingless-Int-1 secretion from mouse embryonic stem cells inhibit their self-renewal?",
+        "referenced_doc_id": "23418635"
+    },
+    {
+        "query": "What is the role of myoepithelial cells in breast cancer progression from ductal carcinoma in situ to invasive carcinoma?",
+        "referenced_doc_id": "20333864"
+    },
+    {
+        "query": "What is the relationship between the loss of myoepithelial cells and the progression from ductal carcinoma in situ (DCIS) to invasive breast cancer?",
+        "referenced_doc_id": "20333864"
+    },
+    {
+        "query": "What is the role of anti-CTLA-4 treatment in the context of melanoma and its effect on exhausted PD-1+ Eomes+ CD8 T cells?",
+        "referenced_doc_id": "4468861"
+    },
+    {
+        "query": "What are the primary sources of T cells in pediatric tissues?",
+        "referenced_doc_id": "23460562"
+    },
+    {
+        "query": "What is the effect of daily subcutaneous injections of tenofovir on the transmission of HIV in rhesus macaques?",
+        "referenced_doc_id": "14260013"
+    },
+    {
+        "query": "What percentage of dementia diagnoses reported in the DSM-IV are classified as 10/66 dementia?",
+        "referenced_doc_id": "14682243"
+    },
+    {
+        "query": "What role does the inclusion of pharmacists on rounding teams play in reducing the occurrence of adverse drug events?",
+        "referenced_doc_id": "12258338"
+    },
+    {
+        "query": "Does including pharmacists in rounding teams help to lower the number of adverse drug events?",
+        "referenced_doc_id": "12258338"
+    },
+    {
+        "query": "Does increased LDL receptor expression help decrease levels of low-density lipoprotein (LDL) cholesterol?",
+        "referenced_doc_id": "6540064"
+    },
+    {
+        "query": "Does increased LDL receptor activity affect levels of low-density lipoprotein (LDL) cholesterol?",
+        "referenced_doc_id": "6540064"
+    },
+    {
+        "query": "Is there a link between increased diastolic blood pressure and abdominal aortic aneurysm?",
+        "referenced_doc_id": "4506414"
+    },
+    {
+        "query": "What role do LRRK2 mutations cause in disrupting axonal transport?",
+        "referenced_doc_id": "9638032"
+    },
+    {
+        "query": "What role do microtubules play in repairing damage to axonal transport caused by a mutation in the LRRK2 gene?",
+        "referenced_doc_id": "9638032"
+    },
+    {
+        "query": "What is the duration of time that individuals with Alzheimer's disease can expect to see improvements in their cognitive function after participating in six months of physical activity?",
+        "referenced_doc_id": "1642727"
+    },
+    {
+        "query": "What is the duration over which individuals with Alzheimer's disease can expect to see improvement in cognitive function following participation in a 6-month period of physical exercise?",
+        "referenced_doc_id": "1642727"
+    },
+    {
+        "query": "Can induced hepatic stem cells be differentiated into cholangiocytic cells?",
+        "referenced_doc_id": "20033112"
+    },
+    {
+        "query": "Can induced hepatic stem cells potentially become cholangiocytic cells?",
+        "referenced_doc_id": "20033112"
+    },
+    {
+        "query": "Can induced hepatic stem cells be used for liver regeneration and tumour treatment?",
+        "referenced_doc_id": "20033112"
+    },
+    {
+        "query": "What is the effect of inducing urokinase receptor signaling in podocytes on their structure?",
+        "referenced_doc_id": "16355392"
+    },
+    {
+        "query": "What is the relationship between inhibiting HDAC6 and the survival rate in mice with ARID1A mutated tumors?",
+        "referenced_doc_id": "5468807"
+    },
+    {
+        "query": "What type of reproductive process do falciparum parasites use in their bodies?",
+        "referenced_doc_id": "6503185"
+    },
+    {
+        "query": "What are the methods of sexual reproduction in falciparum parasites?",
+        "referenced_doc_id": "6503185"
+    },
+    {
+        "query": "What role do ventral tegmental neurons play in mediating insulin's effect on appetite?",
+        "referenced_doc_id": "15535511"
+    },
+    {
+        "query": "Does taking folic acid and vitamin B6 supplements reduce blood homocysteine levels?",
+        "referenced_doc_id": "12810152"
+    },
+    {
+        "query": "Is integrated care effective in managing multiple health conditions simultaneously?",
+        "referenced_doc_id": "15041758"
+    },
+    {
+        "query": "What percentage of patients in integrated care programs experience improved health outcomes for their multi-comorbid conditions?",
+        "referenced_doc_id": "15041758"
+    },
+    {
+        "query": "Is integrated care effective in addressing common health issues simultaneously?",
+        "referenced_doc_id": "15041758"
+    },
+    {
+        "query": "What is the role of interleukin-18 in the development and progression of atherosclerosis?",
+        "referenced_doc_id": "24384587"
+    },
+    {
+        "query": "What is the potential role of interleukin-18 in cardiovascular disease?",
+        "referenced_doc_id": "24384587"
+    },
+    {
+        "query": "What is the function of interleukin-18 in relation to atherosclerosis?",
+        "referenced_doc_id": "24384587"
+    },
+    {
+        "query": "What is the process that allows certain proteins to be degraded in specific locations within the cell membrane?",
+        "referenced_doc_id": "8533245"
+    },
+    {
+        "query": "What is the function of JMJD6 in protein modification?",
+        "referenced_doc_id": "37204802"
+    },
+    {
+        "query": "Does KLF4 play a role in enabling VSMCs ( vascular smooth muscle cells) to acquire characteristics from other cell types within atherosclerotic lesions?",
+        "referenced_doc_id": "22080671"
+    },
+    {
+        "query": "What is the role of KRT17 in regulating AIRE expression?",
+        "referenced_doc_id": "12580014"
+    },
+    {
+        "query": "What is the relationship between KRT17 and the regulation of AIRE expression in diseased tissues?",
+        "referenced_doc_id": "12580014"
+    },
+    {
+        "query": "What is the main function of the MC4R gene?",
+        "referenced_doc_id": "4469125"
+    },
+    {
+        "query": "What role does Klf2 play in maintaining the health and functionality of myeloid cells?",
+        "referenced_doc_id": "6493422"
+    },
+    {
+        "query": "What role does KLK2 play in maintaining normal myeloid cell function?",
+        "referenced_doc_id": "6493422"
+    },
+    {
+        "query": "Is Klf2 necessary for healthy myeloid cells?",
+        "referenced_doc_id": "6493422"
+    },
+    {
+        "query": "Is Klf4 necessary for the formation and development of myeloid cells?",
+        "referenced_doc_id": "25148216"
+    },
+    {
+        "query": "Is Klf4 necessary for the normal development and function of myeloid cells?",
+        "referenced_doc_id": "25148216"
+    },
+    {
+        "query": "What role does KLK4 play in the development and function of myeloid cells?",
+        "referenced_doc_id": "25148216"
+    },
+    {
+        "query": "Is Klf4 essential for the proper development of myeloid cells?",
+        "referenced_doc_id": "25148216"
+    },
+    {
+        "query": "What is the effect of deleting the BMP receptor Alk3 in the proximal tubules on kidney function?",
+        "referenced_doc_id": "5573975"
+    },
+    {
+        "query": "What is the effect on the kidney when the BMP receptor Alk3 is deleted specifically in the proximal tubules?",
+        "referenced_doc_id": "5573975"
+    },
+    {
+        "query": "What is the relationship between knockout of the BMP receptor Alk3 in the proximal tubule and the development of fibrosis?",
+        "referenced_doc_id": "5573975"
+    },
+    {
+        "query": "Is there a clear link between high levels of LDL (bad) cholesterol and the risk of heart disease?",
+        "referenced_doc_id": "2095573"
+    },
+    {
+        "query": "What is the role of Fibroblast Growth Factor 21 (FGF21) in the development of atherosclerosis?",
+        "referenced_doc_id": "9315213"
+    },
+    {
+        "query": "Does lack of fibroblast growth factor 21 in mice affect atherosclerosis?",
+        "referenced_doc_id": "9315213"
+    },
+    {
+        "query": "What is the role of Fibroblast Growth Factor 21 (FGF21) in cardiovascular health?",
+        "referenced_doc_id": "9315213"
+    },
+    {
+        "query": "What is the relationship between FGF21 levels and mouse lifespan?",
+        "referenced_doc_id": "9315213"
+    },
+    {
+        "query": "What role do lice play in modulating immune responses?",
+        "referenced_doc_id": "1071991"
+    },
+    {
+        "query": "Does long chain polyunsaturated fatty acid supplementation reduce the incidence of atopic eczema in children?",
+        "referenced_doc_id": "22442133"
+    },
+    {
+        "query": "What does research suggest about the impact of long chain polyunsaturated fatty acid (LCPUFA) supplementation on the incidence of atopic eczema?",
+        "referenced_doc_id": "22442133"
+    },
+    {
+        "query": "What is the relationship between low nucleosome occupancy and increased methylation levels in different species?",
+        "referenced_doc_id": "17587795"
+    },
+    {
+        "query": "What is responsible for directing the organization of neutrophil polarization?",
+        "referenced_doc_id": "5531479"
+    },
+    {
+        "query": "What role does Ly49Q play in organizing neutrophil polarization?",
+        "referenced_doc_id": "5531479"
+    },
+    {
+        "query": "Do Ly6C high monocytes exhibit greater levels of inflammation compared to Ly6C low monocytes?",
+        "referenced_doc_id": "36444198"
+    },
+    {
+        "query": "What is the main difference in the inflammatory capabilities between Ly6C high and low monocytes?",
+        "referenced_doc_id": "36444198"
+    },
+    {
+        "query": "Are MEK inhibitors showing promise as an effective treatment for RAS-driven mouse models of cancer?",
+        "referenced_doc_id": "4961038"
+    },
+    {
+        "query": "What do MFGE8 proteins regulate in relation to fat absorption?",
+        "referenced_doc_id": "5389095"
+    },
+    {
+        "query": "What role do mical redox enzymes play in regulating actin dynamics?",
+        "referenced_doc_id": "16562534"
+    },
+    {
+        "query": "What role do mical redox enzymes play in regulating actin dynamics?",
+        "referenced_doc_id": "16562534"
+    },
+    {
+        "query": "What role do MICAL (Microtubule-associated protein complex L) redox enzymes play in regulating cellular actin dynamics?",
+        "referenced_doc_id": "6609935"
+    },
+    {
+        "query": "What are the roles of mical redox enzymes in regulating actin dynamics?",
+        "referenced_doc_id": "16562534"
+    },
+    {
+        "query": "What role do Mical (Mitochondrial calcium-activated potassium channel-like 1) proteins play in regulating actin dynamics?",
+        "referenced_doc_id": "16562534"
+    },
+    {
+        "query": "What role do microtubules play in regulating actin dynamics?",
+        "referenced_doc_id": "6609935"
+    },
+    {
+        "query": "What role do microtubules play in regulating the interaction between actin and mical redox enzymes?",
+        "referenced_doc_id": "6609935"
+    },
+    {
+        "query": "What are the functions of mical redox enzymes in relation to regulating actin dynamics?",
+        "referenced_doc_id": "6609935"
+    },
+    {
+        "query": "What role do mical (microcalmodulin) and redox enzymes play in regulating actin dynamics?",
+        "referenced_doc_id": "33912020"
+    },
+    {
+        "query": "What is the mechanism by which MUC1-C stimulates the activation of the NF-\u03baB p65 signaling pathway?",
+        "referenced_doc_id": "23078022"
+    },
+    {
+        "query": "What role does mafA phosphorylation play in relation to its ubiquitination?",
+        "referenced_doc_id": "11291348"
+    },
+    {
+        "query": "Does MAF ubiquitination affect P/CAF (Proliferating Cell Autoregulator Factor) binding?",
+        "referenced_doc_id": "11291348"
+    },
+    {
+        "query": "What are the key components involved in T cell activation?",
+        "referenced_doc_id": "13868795"
+    },
+    {
+        "query": "Does the major vault protein MVP contribute to a more aggressive form of cancer when it regulates the trafficking of tumor suppressor microRNA-193a into extracellular vesicles?",
+        "referenced_doc_id": "19800147"
+    },
+    {
+        "query": "What is the relationship between major vault protein MVP and the regulation of tumor suppressive microRNA 193a in extracellular vesicles?",
+        "referenced_doc_id": "19800147"
+    },
+    {
+        "query": "What is the molecular mechanism by which a major vault protein influences the transportation of tumor suppressive microRNA-193a from the nucleus to extracellular vesicles?",
+        "referenced_doc_id": "19800147"
+    },
+    {
+        "query": "What is the current effectiveness of Artemisinin-based combination therapy in preventing malaria transmission compared to other treatment options?",
+        "referenced_doc_id": "1805641"
+    },
+    {
+        "query": "What are some common medications used to treat obesity that can have adverse effects on various parts of the body?",
+        "referenced_doc_id": "7552215"
+    },
+    {
+        "query": "What are some common adverse effects associated with commonly used medications for weight loss in addition to their intended use?",
+        "referenced_doc_id": "7552215"
+    },
+    {
+        "query": "What are common medications that can cause unpleasant side effects when used to treat obesity?",
+        "referenced_doc_id": "7552215"
+    },
+    {
+        "query": "Is there an association between mice lacking Sirt1 in Sf1-expressing neurons and a higher risk of developing obesity?",
+        "referenced_doc_id": "13001323"
+    },
+    {
+        "query": "Does mice lacking Sirt1 in Sf1-expressing neurons being less susceptible to diet-induced obesity?",
+        "referenced_doc_id": "13001323"
+    },
+    {
+        "query": "What role do interferons play in protecting against autoimmune diseases?",
+        "referenced_doc_id": "8246922"
+    },
+    {
+        "query": "What role do interferons play in autoimmune diseases?",
+        "referenced_doc_id": "8246922"
+    },
+    {
+        "query": "What is the relationship between mice lacking interferon-\u03b3 or its receptor and susceptibility to experimental autoimmune myocarditis?",
+        "referenced_doc_id": "24338780"
+    },
+    {
+        "query": "What role does Interferon-\u03b3 play in autoimmunity and its impact on mouse models of experimental autoimmune myocarditis?",
+        "referenced_doc_id": "24338780"
+    },
+    {
+        "query": "What is the relationship between mice lacking interferon-\u03b3 and their susceptibility to experimental autoimmune myocarditis?",
+        "referenced_doc_id": "24338780"
+    },
+    {
+        "query": "Is mice lacking interferon-gamma (IFN-\u03b3) and its receptor more prone to experimental acute myeloid leukemia (EAM)?",
+        "referenced_doc_id": "8246922"
+    },
+    {
+        "query": "What is the role of IFN-\u03b3 in the susceptibility of mice to Epstein-Barr associated myelodysplastic syndrome (EAEM) induced by alpha-myosin heavy chain/collagenous fragment?",
+        "referenced_doc_id": "8246922"
+    },
+    {
+        "query": "What type of molecule does microcin J25 target to inhibit nucleoside triphosphate (NTP) binding?",
+        "referenced_doc_id": "4740447"
+    },
+    {
+        "query": "What are microglia?",
+        "referenced_doc_id": "15493354"
+    },
+    {
+        "query": "What are microglia?",
+        "referenced_doc_id": "15493354"
+    },
+    {
+        "query": "What are the main differences between migraines and ischemic strokes?",
+        "referenced_doc_id": "15984735"
+    },
+    {
+        "query": "Does migraines with aura have a higher risk of ischemic stroke?",
+        "referenced_doc_id": "15984735"
+    },
+    {
+        "query": "Can misunderstandings between doctors and patients influence patient compliance?",
+        "referenced_doc_id": "3610080"
+    },
+    {
+        "query": "What are mitochondria's primary functions that contribute to cell death or apoptosis?",
+        "referenced_doc_id": "8551160"
+    },
+    {
+        "query": "What is the primary function of mitochondria?",
+        "referenced_doc_id": "8551160"
+    },
+    {
+        "query": "What is the mechanism by which monoclonal antibodies that target N-cadherin may inhibit castration-resistant prostate cancer?",
+        "referenced_doc_id": "22180793"
+    },
+    {
+        "query": "What is the effect of monoclonal antibodies targeting N-cadherin on cell growth?",
+        "referenced_doc_id": "22180793"
+    },
+    {
+        "query": "What determines the type of termination event that occurs within each Okazaki fragment?",
+        "referenced_doc_id": "36606083"
+    },
+    {
+        "query": "What are mouse models used for in research?",
+        "referenced_doc_id": "13513790"
+    },
+    {
+        "query": "Does mutant mice lacking SVCT2 have reduced ascorbic acid levels in their brains and adrenal glands?",
+        "referenced_doc_id": "19799455"
+    },
+    {
+        "query": "What is the effect of a genetic mutation on the levels of ascorbic acid (vitamin C) in mutant mice?",
+        "referenced_doc_id": "19799455"
+    },
+    {
+        "query": "What is the relationship between mutations in the RIM1 gene and decreased expression of the IME1 RNA?",
+        "referenced_doc_id": "8148304"
+    },
+    {
+        "query": "What is the relationship between mutations in the RIM1 gene and decreased levels of IMP1 (Inositol Monophosphate 1) RNA?",
+        "referenced_doc_id": "8148304"
+    },
+    {
+        "query": "What are myelin sheaths responsible for?",
+        "referenced_doc_id": "17814815"
+    },
+    {
+        "query": "What is involved in the process of myelin sheaths affecting the speed and effectiveness of electrical impulses traveling through the nervous system?",
+        "referenced_doc_id": "17814815"
+    },
+    {
+        "query": "What is the genetic mutation that confers resistance to nevirapine?",
+        "referenced_doc_id": "15319019"
+    },
+    {
+        "query": "Does natriuretic peptides have an impact on preventing or managing diabetes?",
+        "referenced_doc_id": "15663829"
+    },
+    {
+        "query": "Do natriuretic peptides play a role in preventing or managing diabetes?",
+        "referenced_doc_id": "15663829"
+    },
+    {
+        "query": "What are the potential targets of neutrophil extracellular traps (NETs) in autoimmune disease?",
+        "referenced_doc_id": "17741440"
+    },
+    {
+        "query": "What is the primary role of IL-1\u03b2 produced by neutrophils?",
+        "referenced_doc_id": "22696649"
+    },
+    {
+        "query": "What percentage of nonhypertensive individuals aged 55 will develop hypertension in their lifetime?",
+        "referenced_doc_id": "12206390"
+    },
+    {
+        "query": "What percentage of non-hypertensive adults aged 55 will go on to develop high blood pressure in their lifetime?",
+        "referenced_doc_id": "12206390"
+    },
+    {
+        "query": "Can nonsteroidal antinflammatory drugs have anti-cancer properties?",
+        "referenced_doc_id": "43334921"
+    },
+    {
+        "query": "What role do nonsteroidal antinflammatory drugs play in cancer treatment?",
+        "referenced_doc_id": "43334921"
+    },
+    {
+        "query": "What role do nonsteroidal antinflammatory drugs play in cancer treatment?",
+        "referenced_doc_id": "43334921"
+    },
+    {
+        "query": "What is the normal expression of RUNX1?",
+        "referenced_doc_id": "1982286"
+    },
+    {
+        "query": "Does TNF deficiency affect the formation of normal granulomas?",
+        "referenced_doc_id": "16066726"
+    },
+    {
+        "query": "Does normal granulomas occur without Tumor Necrosis Factor (TNF)?",
+        "referenced_doc_id": "16066726"
+    },
+    {
+        "query": "What is the process by which certain types of cancer cells interact with non-cancerous cells in their surrounding environment?",
+        "referenced_doc_id": "20568364"
+    },
+    {
+        "query": "What is the process of communication or interaction between cancerous (tumor) cells and non-cancerous (stromal) cells in a tumor?",
+        "referenced_doc_id": "20568364"
+    },
+    {
+        "query": "What is the process by which cancerous tumors communicate with their surrounding stroma?",
+        "referenced_doc_id": "16361581"
+    },
+    {
+        "query": "What is the presence of oat-specific inflammatory cells in the small bowel mucosa of coeliac patients a marker for?",
+        "referenced_doc_id": "14340571"
+    },
+    {
+        "query": "Does omnivorous diet lead to higher production of trimethylamine N-oxide in individuals who consume I-carnitine-rich foods compared to those on a vegan diet?",
+        "referenced_doc_id": "14803797"
+    },
+    {
+        "query": "Does the consumption of I-carnitine-based products by omnivores lead to higher levels of trimethylamine N-oxide in their diets?",
+        "referenced_doc_id": "14803797"
+    },
+    {
+        "query": "What percentage of surgical randomized controlled trials are stopped or discontinued before their planned completion?",
+        "referenced_doc_id": "6477536"
+    },
+    {
+        "query": "What percentage of surgical randomized controlled trials are terminated prematurely?",
+        "referenced_doc_id": "6477536"
+    },
+    {
+        "query": "What is the significance of osteocytes' involvement in the G-CSF-induced mobilization of hematopoietic stem cells (HSCs)?",
+        "referenced_doc_id": "13509809"
+    },
+    {
+        "query": "What is the process by which osteocytes facilitate hematopoietic stem cell (HSC) mobilization following granulocyte colony-stimulating factor (G-CSF)?",
+        "referenced_doc_id": "13509809"
+    },
+    {
+        "query": "What are Plasma Lp(a) levels?",
+        "referenced_doc_id": "6540064"
+    },
+    {
+        "query": "What is the primary mechanism through which PCSK9 inhibitors reduce plasma Lp(a) levels?",
+        "referenced_doc_id": "6540064"
+    },
+    {
+        "query": "Does PD-1 signaling influence the production of interleukin 10 in human monocytes?",
+        "referenced_doc_id": "10648422"
+    },
+    {
+        "query": "Does PD-1 activation of monocytes increase the production of interleukin 10?",
+        "referenced_doc_id": "10648422"
+    },
+    {
+        "query": "What is the function of phosphatidylinositol 3-kinase (PKG) in the spinal cord's long-term potentiation process?",
+        "referenced_doc_id": "11254556"
+    },
+    {
+        "query": "What does PTEN regulate through its relationship with SRF?",
+        "referenced_doc_id": "34071621"
+    },
+    {
+        "query": "What is the relationship between PTEN and the regulation of SRF (Spectrin-Associated Rheb GTPase)?",
+        "referenced_doc_id": "34071621"
+    },
+    {
+        "query": "What role does PTEN play in regulating the SRF (Serum Response Factor) pathway?",
+        "referenced_doc_id": "34071621"
+    },
+    {
+        "query": "What is the percentage of individuals whose lung cancer risk decreases after they stop smoking?",
+        "referenced_doc_id": "16422880"
+    },
+    {
+        "query": "What is the relationship between HIV and AIDS?",
+        "referenced_doc_id": "17077004"
+    },
+    {
+        "query": "What is the relationship between HIV and AIDS?",
+        "referenced_doc_id": "17077004"
+    },
+    {
+        "query": "What is the relationship between living in resource-deprived areas and being hospitalized for a common type of epithelial cancer?",
+        "referenced_doc_id": "16390264"
+    },
+    {
+        "query": "What is the relationship between living in resource-deprived areas and the likelihood of patients having an emergency event as their first hospital admission for a specific type of cancer?",
+        "referenced_doc_id": "16390264"
+    },
+    {
+        "query": "What is the relationship between severity of malaria anaemia in patients with microcytosis and erythrocyte count?",
+        "referenced_doc_id": "18174210"
+    },
+    {
+        "query": "What is the relationship between microcytosis in patients with Plasmodium falciparum infection and their resistance to severe malaria-induced anemia?",
+        "referenced_doc_id": "18174210"
+    },
+    {
+        "query": "What is the relationship between microcytosis, erythrocyte count, and resistance to severe malaria in individuals infected with Plasmodium falciparum?",
+        "referenced_doc_id": "18174210"
+    },
+    {
+        "query": "What is the effect of inhaled nitric oxide on pediatric sick cell disease (SCD) patients experiencing a vaso-occlusive crisis?",
+        "referenced_doc_id": "14711483"
+    },
+    {
+        "query": "Is peroxynitrite necessary for inducing T cell tolerance?",
+        "referenced_doc_id": "5483793"
+    },
+    {
+        "query": "Does pharmacist attendance during ward rounds contribute to a reduction in adverse events?",
+        "referenced_doc_id": "12258338"
+    },
+    {
+        "query": "What is the primary goal of pharmacist attendance at ward rounds?",
+        "referenced_doc_id": "12258338"
+    },
+    {
+        "query": "Does phase classification play a role in determining compatible donors and recipients for organ transplantation?",
+        "referenced_doc_id": "11527199"
+    },
+    {
+        "query": "What role do piezo1 channels play in facilitating cell migration in epithelial cells?",
+        "referenced_doc_id": "21414718"
+    },
+    {
+        "query": "What type of biological process involves the use of piezo1 channels to detect and respond to mechanical stimuli.",
+        "referenced_doc_id": "21414718"
+    },
+    {
+        "query": "What role do Piezo1 channels play in regulating cellular movement?",
+        "referenced_doc_id": "21414718"
+    },
+    {
+        "query": "What is the role of piezoelectric channels (Piezo1) in regulating cell movement in epithelial tissues?",
+        "referenced_doc_id": "21414718"
+    },
+    {
+        "query": "What are the potential side effects of taking pioglitazone medication?",
+        "referenced_doc_id": "3355397"
+    },
+    {
+        "query": "Is using pioglitazone significantly linked to an elevated risk of pancreatic cancer?",
+        "referenced_doc_id": "3355397"
+    },
+    {
+        "query": "What is the relationship between pioglitazone use and the development of pancreatic cancer?",
+        "referenced_doc_id": "3355397"
+    },
+    {
+        "query": "Is there any evidence that uses pioglitazone increase the risk of prostate cancer?",
+        "referenced_doc_id": "3355397"
+    },
+    {
+        "query": "Is the use of pioglitazone associated with an increased risk of prostate cancer?",
+        "referenced_doc_id": "3355397"
+    },
+    {
+        "query": "What are the key players involved in the interaction between pioneer factor OCT3/4 and major chromatin remodeling factors?",
+        "referenced_doc_id": "2078658"
+    },
+    {
+        "query": "Does Pioneer factor OCT3/4 interact with major chromatin remodeling factors?",
+        "referenced_doc_id": "30507607"
+    },
+    {
+        "query": "What do mitochondrial RNA granules primarily manage?",
+        "referenced_doc_id": "13931771"
+    },
+    {
+        "query": "What is the process by which mitochondria manage their transcribed genetic material?",
+        "referenced_doc_id": "935538"
+    },
+    {
+        "query": "What are the conditions necessary for post-transcriptional modification and processing of mitochondrial RNAs within mitochondria?",
+        "referenced_doc_id": "4306711"
+    },
+    {
+        "query": "What are the mechanisms that allow post-transcriptional regulation to take place within specific organelles called mitochondrial RNA granules?",
+        "referenced_doc_id": "4306711"
+    },
+    {
+        "query": "What is the difference in stability between pre-mRNA associated with spliceosomal components and those not associated?",
+        "referenced_doc_id": "4162857"
+    },
+    {
+        "query": "What is the relationship between physical activity and overall well-being?",
+        "referenced_doc_id": "40817021"
+    },
+    {
+        "query": "What impact do regular physical activity have on overall well-being and daily functioning?",
+        "referenced_doc_id": "40817021"
+    },
+    {
+        "query": "Does regular physical activity improve overall well-being and health outcomes for individuals?",
+        "referenced_doc_id": "40817021"
+    },
+    {
+        "query": "What is the primary reason that primary cervical cytology screening using High-Performance Polymerase Chain Reaction (HP-PCR) for Human Papillomavirus (HPV) detection shows a higher sensitivity rate compared to traditional cytology?",
+        "referenced_doc_id": "27446873"
+    },
+    {
+        "query": "Does primary cervical cytology screening using Human Papillomavirus (HPV) detection have a better ability to identify and diagnose severe cervical intraepithelial neoplasia?",
+        "referenced_doc_id": "27446873"
+    },
+    {
+        "query": "Does primary cervical cytology screening with Human Papillomavirus (HPV) detection have a higher ability to detect severe cervical intraepithelial neoplasia?",
+        "referenced_doc_id": "27873158"
+    },
+    {
+        "query": "Does primary cervical cytology screening with Human Papillomavirus (HPV) detection have a higher sensitivity in detecting severe cervical intraepithelial neoplasia compared to traditional cytology methods?",
+        "referenced_doc_id": "27873158"
+    },
+    {
+        "query": "Does primary cervical cytology screening using Human Papillomavirus (HPV) detection have a higher ability to identify severe cervical intraepithelial neoplasia compared to traditional cytological methods?",
+        "referenced_doc_id": "28617573"
+    },
+    {
+        "query": "What is the primary benefit of using primary cervical cytology screening that includes HPV (Human Papillomavirus) detection in detecting Severe Cervical Intraepithelial Neoplasia?",
+        "referenced_doc_id": "28617573"
+    },
+    {
+        "query": "Does primary cervical cytology screening using Human Papillomavirus (HPV) detection improve long-term sensitivity in identifying cervical intraepithelial neoplasia?",
+        "referenced_doc_id": "9764256"
+    },
+    {
+        "query": "What is the advantage of primary cervical cytology screening using Human Papillomavirus (HPV) detection in identifying and treating severe cervical intraepithelial neoplasia?",
+        "referenced_doc_id": "9764256"
+    },
+    {
+        "query": "What role do pro-inflammatory cytokines play in cancer progression?",
+        "referenced_doc_id": "39264456"
+    },
+    {
+        "query": "What is the protein progerin linked to?",
+        "referenced_doc_id": "11659421"
+    },
+    {
+        "query": "What is the mechanism behind progerin's effect on cell differentiation and cellular aging?",
+        "referenced_doc_id": "11659421"
+    },
+    {
+        "query": "What are the key cells responsible for restoring circuitry in damaged spinal cords?",
+        "referenced_doc_id": "20128547"
+    },
+    {
+        "query": "What is the function of propriospinal interneurons in spinal circuit plasticity after spinal cord injury?",
+        "referenced_doc_id": "20128547"
+    },
+    {
+        "query": "What role does the pseudogene PTENP1 play in regulating protein expression through its interaction with the tumor suppressor gene PTEN?",
+        "referenced_doc_id": "6828370"
+    },
+    {
+        "query": "What is the mechanism by which pyridostatin affects cell cycle progression?",
+        "referenced_doc_id": "16472469"
+    },
+    {
+        "query": "What is the mechanism by which pyridostatin exerts its effects?",
+        "referenced_doc_id": "16472469"
+    },
+    {
+        "query": "What is the mechanism by which pyridostatin induces double-strand breaks in DNA?",
+        "referenced_doc_id": "16472469"
+    },
+    {
+        "query": "What is the mechanism by which pyridostatin exerts its anti-proliferative effect on cells?",
+        "referenced_doc_id": "16472469"
+    },
+    {
+        "query": "What is the role of pyridostatin in maintaining the integrity of telomeres?",
+        "referenced_doc_id": "16472469"
+    },
+    {
+        "query": "What role does RAD52 play in the process of break-induced DNA replication (BIR)?",
+        "referenced_doc_id": "14332945"
+    },
+    {
+        "query": "What process involves RAD52 and its role in facilitating DNA repair during break-induced replication?",
+        "referenced_doc_id": "4319844"
+    },
+    {
+        "query": "What are the mechanisms by which Rad52 plays a role in DNA repair and recombination?",
+        "referenced_doc_id": "4899981"
+    },
+    {
+        "query": "What role does RAD52 play in the process of break-induced DNA replication?",
+        "referenced_doc_id": "4899981"
+    },
+    {
+        "query": "What role do the RANK-RANKL pathway play in the development and function of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "301838"
+    },
+    {
+        "query": "What role does the RANK-RANKL pathway play in the development of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "301838"
+    },
+    {
+        "query": "What is the relationship between the RANK-RANKL pathway and the development of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the role of the RANK-RANKL pathway in the development and differentiation of Aire-expressing cells?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the relationship between the RANK-RANKL pathway and the development of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the relationship between the RANK-RANKL pathway and the development of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What role does the RANK-RANKL pathway play in the development of Aire-expressing cells?",
+        "referenced_doc_id": "3952288"
+    },
+    {
+        "query": "What role do the RANK-RANKL pathway play in the development and function of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "3952288"
+    },
+    {
+        "query": "What does RTEL1 interaction with TRF2 involve in terms of molecular structure?",
+        "referenced_doc_id": "4926049"
+    },
+    {
+        "query": "What genetic mutation leads to RUNX1's loss of function in TLX1 T-cell acute lymphoblastic leukemia (T-ALL)?",
+        "referenced_doc_id": "1982286"
+    },
+    {
+        "query": "What is the relationship between RUNX1 and TLX1 in the context of T-lymphoblastic leukemia/lymphoma (T-ALL)?",
+        "referenced_doc_id": "1982286"
+    },
+    {
+        "query": "Does rapamycin delay aging in fruit flies?",
+        "referenced_doc_id": "6277638"
+    },
+    {
+        "query": "What is the relationship between rapid phosphotransfer rates and histidine kinase regulator specificity?",
+        "referenced_doc_id": "11603066"
+    },
+    {
+        "query": "Does recognition of start codons depend on the function of the translation initiation factor IF3?",
+        "referenced_doc_id": "16927286"
+    },
+    {
+        "query": "What factor is reduced, leading to an association between autoimmune diseases and increased responsiveness to interleukin-2 in regulatory T cells?",
+        "referenced_doc_id": "13923140"
+    },
+    {
+        "query": "What is the relationship between reduced responsiveness to interleukin-2 in regulatory T cells and the development of autoimmune diseases?",
+        "referenced_doc_id": "11899391"
+    },
+    {
+        "query": "What is the effect of reducing H3k4me3 methylation on mouse epiblast stem cells?",
+        "referenced_doc_id": "6441369"
+    },
+    {
+        "query": "What is the effect of reducing Rpl38 on the mRNA translation of the Hox genes in mice?",
+        "referenced_doc_id": "12486491"
+    },
+    {
+        "query": "What is the effect of removing H3K9me3 on its removal when other H3K9 demethylases are used to improve reprogramming efficiency in somatic cell nuclear transfer (SCNT) experiments?",
+        "referenced_doc_id": "4547102"
+    },
+    {
+        "query": "What factor appears to enhance the process of rewriting human cells' genetic information during nuclear transfer?",
+        "referenced_doc_id": "4547102"
+    },
+    {
+        "query": "What is the effect of replacing histone H2A with H2A.Z on the activity of genes in yeast?",
+        "referenced_doc_id": "25254425"
+    },
+    {
+        "query": "What role does ROR\u03b3 play in castration-resistant prostate cancer treatment?",
+        "referenced_doc_id": "17671145"
+    },
+    {
+        "query": "What is ROR\u03b3 considered a therapeutic target in treating castration-resistant prostate cancer?",
+        "referenced_doc_id": "17671145"
+    },
+    {
+        "query": "Does cry1 gene expression affect the body's natural rhythm through regulation of cAMP signaling in glycogen synthesis?",
+        "referenced_doc_id": "22500262"
+    },
+    {
+        "query": "What does Cry1's rhythmic expression affect in terms of circadian regulation?",
+        "referenced_doc_id": "22500262"
+    },
+    {
+        "query": "What is the relationship between rhythmic expression of Cry1 and its influence on hepatic glucose metabolism via circadian regulation of cyclic adenosine monophosphate (cAMP) signaling?",
+        "referenced_doc_id": "22500262"
+    },
+    {
+        "query": "What does Cry1 protein's rhythmic expression affecting the circadian rhythm lead to in hepatic (liver) glucose metabolism?",
+        "referenced_doc_id": "22500262"
+    },
+    {
+        "query": "What role do the rhythmic fluctuations of Cry1 protein in relation to its impact on cyclic adenosine monophosphate (cAMP) signaling pathways in liver cells play in regulating hepatic glucose metabolism?",
+        "referenced_doc_id": "22500262"
+    },
+    {
+        "query": "What are ribosomalopathies?",
+        "referenced_doc_id": "12486491"
+    },
+    {
+        "query": "What role do antihypertensive drugs play in reducing the risk of cardiovascular events in patients undergoing hemodialysis?",
+        "referenced_doc_id": "10072941"
+    },
+    {
+        "query": "Is risk-adjusted mortality rates the same for teaching and non-teaching hospitals?",
+        "referenced_doc_id": "13906581"
+    },
+    {
+        "query": "What is the primary factor affecting risk-adjusted mortality rates between teaching and non-teaching hospitals?",
+        "referenced_doc_id": "13906581"
+    },
+    {
+        "query": "Does rotator cuff exercises have superior benefits over standard exercise programs for alleviating shoulder discomfort?",
+        "referenced_doc_id": "4200695"
+    },
+    {
+        "query": "Are scapular stabilizer exercises generally more effective than general exercise therapy for managing shoulder pain and improving mobility.",
+        "referenced_doc_id": "4200695"
+    },
+    {
+        "query": "Does scapular stabilizer exercises outperform standard physical therapy for alleviating shoulder discomfort and enhancing mobility?",
+        "referenced_doc_id": "4200695"
+    },
+    {
+        "query": "What is the effectiveness of scapular stabilizer exercises compared to traditional exercise therapy for alleviating shoulder pain and enhancing mobility?",
+        "referenced_doc_id": "4200695"
+    },
+    {
+        "query": "Is sepsis-related mortality rates remaining stable from 2009 to 2014?",
+        "referenced_doc_id": "4824840"
+    },
+    {
+        "query": "What is the consistency of sepsis-related mortality rates over a 5-year period?",
+        "referenced_doc_id": "4824840"
+    },
+    {
+        "query": "What are the specific side effects of antidepressants that can increase the risk of stroke?",
+        "referenced_doc_id": "5691302"
+    },
+    {
+        "query": "What does this imply about the role of the SHP-2 MAPK pathway in mice?",
+        "referenced_doc_id": "26851674"
+    },
+    {
+        "query": "What is the mechanism of how stiff substrates affect mesoderm cell differentiation?",
+        "referenced_doc_id": "3874000"
+    },
+    {
+        "query": "What is the potential consequence on a student's career if they struggle academically during the initial stages of medical school?",
+        "referenced_doc_id": "6710713"
+    },
+    {
+        "query": "Are students who struggle academically in their initial medical education more likely to exhibit unethical behavior?",
+        "referenced_doc_id": "6710713"
+    },
+    {
+        "query": "What is the relationship between academic performance during medical school and the likelihood of engaging in professional misconduct?",
+        "referenced_doc_id": "6710713"
+    },
+    {
+        "query": "What are the main causes of premature death due to poor nutrition?",
+        "referenced_doc_id": "13770184"
+    },
+    {
+        "query": "What are the primary causes of premature death in individuals who experience suboptimal nutrition?",
+        "referenced_doc_id": "8582337"
+    },
+    {
+        "query": "What are the main components involved in creating Van Gogh bundles?",
+        "referenced_doc_id": "12824568"
+    },
+    {
+        "query": "What is the role of surfactin-producing and exopolymers-producing bacteria in creating Van Gogh bundles?",
+        "referenced_doc_id": "12824568"
+    },
+    {
+        "query": "What is the current standard of care for treating adults with displaced fractures of the proximal humerus without surgical intervention?",
+        "referenced_doc_id": "44048701"
+    },
+    {
+        "query": "What are the main differences between surgical and non-surgical treatment for adults with displaced fractures of the proximal humerus?",
+        "referenced_doc_id": "44048701"
+    },
+    {
+        "query": "What surgical approach does not yield superior results when it comes to treating adult proximal humeral fractures?",
+        "referenced_doc_id": "44048701"
+    },
+    {
+        "query": "What surgical versus non-surgical treatments are most effective for adults with displaced fractures of the proximal humerus?",
+        "referenced_doc_id": "44048701"
+    },
+    {
+        "query": "What causes sympathetic nerve activity to increase during normal pregnancy?",
+        "referenced_doc_id": "5323845"
+    },
+    {
+        "query": "Does the body's sympathetic nervous system activity increase during pregnancy?",
+        "referenced_doc_id": "5323845"
+    },
+    {
+        "query": "What happens to sympathetic nerve activity during normal pregnancy?",
+        "referenced_doc_id": "18997216"
+    },
+    {
+        "query": "What are the physiological changes in pregnant individuals that result in increased sympathetic nervous system (SNS) activity?",
+        "referenced_doc_id": "18997216"
+    },
+    {
+        "query": "What happens to sympathetic nervous system activity during a typical pregnancy?",
+        "referenced_doc_id": "13907928"
+    },
+    {
+        "query": "Is sympathetic nerve activity levels increased during normal pregnancy?",
+        "referenced_doc_id": "13907928"
+    },
+    {
+        "query": "Does systemic immunosuppressive therapy improve survival rates among patients with inflammatory eye disease?",
+        "referenced_doc_id": "21009874"
+    },
+    {
+        "query": "Does systemic immunosuppressive therapy improve patient survival rates when treating inflammatory eye diseases?",
+        "referenced_doc_id": "21009874"
+    },
+    {
+        "query": "Is there an association between systemic lupus erythematosus and increased risks of cardiovascular diseases?",
+        "referenced_doc_id": "27466734"
+    },
+    {
+        "query": "What role do t cell receptor /CD3 microdomains play in inducing an immune synapse?",
+        "referenced_doc_id": "33499189"
+    },
+    {
+        "query": "What role do CD3-containing T cell receptors play in inducing an immunological synapse?",
+        "referenced_doc_id": "33499189"
+    },
+    {
+        "query": "What is the function of TMEM27 in relation to beta cells?",
+        "referenced_doc_id": "24142891"
+    },
+    {
+        "query": "What is the function of TMEM27 in relation to beta cells?",
+        "referenced_doc_id": "24142891"
+    },
+    {
+        "query": "What is the role of TMEM27 in relation to beta cells?",
+        "referenced_doc_id": "24142891"
+    },
+    {
+        "query": "What role do TNFAIP3 play in glioblastoma tumour growth?",
+        "referenced_doc_id": "33370"
+    },
+    {
+        "query": "What is TNFAIP3?",
+        "referenced_doc_id": "33370"
+    },
+    {
+        "query": "What is TNFAIP3 involved in?",
+        "referenced_doc_id": "33370"
+    },
+    {
+        "query": "What is the TNFAIP3 gene and what role does it play in brain cancer cells?",
+        "referenced_doc_id": "33370"
+    },
+    {
+        "query": "What is the role of osteoclasts in regulating the maintenance of mature osteoblasts?",
+        "referenced_doc_id": "6796297"
+    },
+    {
+        "query": "Does taking 400mg of \u03b1-tocopheryl acetate have any effect on preventing prostate cancer?",
+        "referenced_doc_id": "12009265"
+    },
+    {
+        "query": "Does taking 400mg of \u03b1-tocopheryl acetate provide protection against prostate cancer?",
+        "referenced_doc_id": "12009265"
+    },
+    {
+        "query": "Does administering anti-depressants to animals affect their levels of amyloid-beta (A\u03b2) in the brain?",
+        "referenced_doc_id": "5260382"
+    },
+    {
+        "query": "Will reducing taxation on sugar-sweetened beverages lower their consumption and subsequently decrease the risk of developing type II diabetes?",
+        "referenced_doc_id": "10071552"
+    },
+    {
+        "query": "What is the relationship between reducing taxes on sugary drinks and the decrease in the prevalence of type 2 diabetes among Indians?",
+        "referenced_doc_id": "10071552"
+    },
+    {
+        "query": "Did reducing the taxation on sugar-sweetened beverages lead to a decrease in the number of people developing type 2 diabetes in India?",
+        "referenced_doc_id": "10071552"
+    },
+    {
+        "query": "Is excessive body weight linked to a significant proportion of kidney cancer cases in the United Kingdom?",
+        "referenced_doc_id": "4828631"
+    },
+    {
+        "query": "Does the C-type lectin receptor CLEC-2 influence cell movement through the manipulation of the actin cytoskeleton?",
+        "referenced_doc_id": "7370282"
+    },
+    {
+        "query": "What role does the C-type lectin receptor CLEC-2 play in promoting motility of dendritic cells on stromal surfaces?",
+        "referenced_doc_id": "7370282"
+    },
+    {
+        "query": "Is the Desmond program effective in demonstrating the absence of an impact on biochemical outcomes?",
+        "referenced_doc_id": "12584053"
+    },
+    {
+        "query": "Does the Desmond program have any effects on biochemical outcomes?",
+        "referenced_doc_id": "12584053"
+    },
+    {
+        "query": "Does the Desmond program have any noticeable effects on biological processes?",
+        "referenced_doc_id": "12584053"
+    },
+    {
+        "query": "Does the Desmond program show any noticeable effects on people's lives?",
+        "referenced_doc_id": "12584053"
+    },
+    {
+        "query": "What evidence is there to suggest that the Desmond program has not resulted in any measurable changes in weight?",
+        "referenced_doc_id": "12584053"
+    },
+    {
+        "query": "What is the structure of the DdrB protein from Deinococcus radiodurans?",
+        "referenced_doc_id": "15305881"
+    },
+    {
+        "query": "What is the relationship between M2-type macrophage polarization and increased thermogenic activity in brown adipose tissue?",
+        "referenced_doc_id": "4319174"
+    },
+    {
+        "query": "What is the relationship between the M2 phenotype and increased thermogenic activity in brown adipose tissue?",
+        "referenced_doc_id": "4319174"
+    },
+    {
+        "query": "Here is the reformulation of the fact into a more general question:\n\nWhat is the role of NF-\u03baB in regulating intestinal inflammation?",
+        "referenced_doc_id": "18956141"
+    },
+    {
+        "query": "What is the purpose of a gene that helps prevent intestinal inflammation?",
+        "referenced_doc_id": "18956141"
+    },
+    {
+        "query": "What role does the PRDM1 gene play in determining the development and function of primordial germ cells?",
+        "referenced_doc_id": "13910150"
+    },
+    {
+        "query": "What role does the combination of the PRDM1 and PRDM14 genes play in human embryonic development?",
+        "referenced_doc_id": "13910150"
+    },
+    {
+        "query": "What is the role of the RANK-RANK Ligand (RANKL) pathway in the development and function of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "301838"
+    },
+    {
+        "query": "What role does the RANK-RANK-Ligand pathway play in the development of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "301838"
+    },
+    {
+        "query": "What role does the RANK-RANK-Ligand (RANKL) pathway play in the development of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the role of the RANK-RANK-Ligand (RANKL) pathway in the development and function of Aire-expressing medullary thymic epithelial cells (mTECs)?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the role of the RANK-RANK-Ligand (RANKL) pathway in the development of specific thymic cell types?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the role of the RANK-RANK-Ligand (RANKL) pathway in the development of a specific subset of thymic epithelial cells, particularly those that express the Aire gene?",
+        "referenced_doc_id": "2734421"
+    },
+    {
+        "query": "What is the role of the RANK-RANK-Ligand (RANKL) pathway in the development and function of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "39128592"
+    },
+    {
+        "query": "What role does the RANK-RANK-Ligand (RANKL) pathway play in the development and function of Aire-expressing medullary thymic epithelial cells?",
+        "referenced_doc_id": "3952288"
+    },
+    {
+        "query": "Is the RANK-RANK-Ligand pathway involved in the development of Aire-expressing cells?",
+        "referenced_doc_id": "3952288"
+    },
+    {
+        "query": "What role does the Snf1 complex play in regulating carbon and energy metabolism in Saccharomyces cerevisiae?",
+        "referenced_doc_id": "14541844"
+    },
+    {
+        "query": "Here's a more general question that captures the essence of the fact:\n\nWhat role does the deamination reaction play in inactivating viral genomes?",
+        "referenced_doc_id": "4347374"
+    },
+    {
+        "query": "What role does the density of cytokine receptor-bearing cells play in determining how far cytokines can reach?",
+        "referenced_doc_id": "4928282"
+    },
+    {
+        "query": "Here's a more general question:\n\nWhat role do activated oncogenes play in contributing to genomic instability in cancer cells?",
+        "referenced_doc_id": "13023410"
+    },
+    {
+        "query": "Here's a revised version of the fact as a question:\n\nWhat is the mechanism behind how activated oncogenes lead to an increase in genomic instability in leukemia cells?",
+        "referenced_doc_id": "13023410"
+    },
+    {
+        "query": "Is there an association between latent infection of myeloid cells with human cytomegalovirus and alterations in gene expression?",
+        "referenced_doc_id": "21932050"
+    },
+    {
+        "query": "What is the impact of human cytomegalovirus on myeloid cells?",
+        "referenced_doc_id": "34016987"
+    },
+    {
+        "query": "What is the impact on gene expression when certain myeloid cells are infected by human cytomegalovirus?",
+        "referenced_doc_id": "34016987"
+    },
+    {
+        "query": "What role does human cytomegalovirus (CMV) play in modulating the behavior of myeloid cells, and how do these interactions impact gene expression?",
+        "referenced_doc_id": "34016987"
+    },
+    {
+        "query": "What is the relationship between miscarriage and suicidal rates among women?",
+        "referenced_doc_id": "25641414"
+    },
+    {
+        "query": "What are the primary mechanisms behind the disassembly of adhesion sites in cells primarily due to the action of matrix metalloproteases (MMPs)?",
+        "referenced_doc_id": "1676568"
+    },
+    {
+        "query": "Is the function of the minor G allele in the FOXO3 gene related to reducing inflammation through the regulation of pro-inflammatory cytokines?",
+        "referenced_doc_id": "13905670"
+    },
+    {
+        "query": "Does having the minor G allele of the FOXO3 gene associated with reduced severity in Crohn's Disease?",
+        "referenced_doc_id": "13905670"
+    },
+    {
+        "query": "What does the interaction between the G allele of FOXO3 and the up-regulation of IL-10 suggest about its role in immune response?",
+        "referenced_doc_id": "13905670"
+    },
+    {
+        "query": "What is the primary common side effect associated with Semaglutide?",
+        "referenced_doc_id": "3654468"
+    },
+    {
+        "query": "What is the timing of peak bone mineral density and fracture risk in children and adolescents?",
+        "referenced_doc_id": "7209559"
+    },
+    {
+        "query": "What factors influence the proliferation rate of neural progenitor cells across different animal species?",
+        "referenced_doc_id": "16939583"
+    },
+    {
+        "query": "What are the differences in the proliferative capacities of neural progenitors between humans and other mammals?",
+        "referenced_doc_id": "16939583"
+    },
+    {
+        "query": "What is the mechanism by which cells regulate their own proliferative capacity?",
+        "referenced_doc_id": "16939583"
+    },
+    {
+        "query": "Does the recruitment of Wdr5 to its target loci depend on Kat8?",
+        "referenced_doc_id": "12040627"
+    },
+    {
+        "query": "What does the repeat-variable diresidue (RVD) do?",
+        "referenced_doc_id": "3981729"
+    },
+    {
+        "query": "What is the relationship between alcohol consumption and the risk of developing certain types of cancer?",
+        "referenced_doc_id": "52072815"
+    },
+    {
+        "query": "What factor contributes to the increased likelihood of developing certain types of cancer due to elevated levels of alcohol consumption?",
+        "referenced_doc_id": "52072815"
+    },
+    {
+        "query": "What factors contribute to the higher rate of self-harm among female prisoners compared to their male counterparts?",
+        "referenced_doc_id": "13900610"
+    },
+    {
+        "query": "What percentage of the world's total prison population are females?",
+        "referenced_doc_id": "13900610"
+    },
+    {
+        "query": "What is the mechanism behind how the tissue surrounding a granuloma in an immune cell triggers an anti-inflammatory immune response?",
+        "referenced_doc_id": "3475317"
+    },
+    {
+        "query": "What is the association between long-term Erythromycin use and the development of hypertrophic pyloric stenosis in infants?",
+        "referenced_doc_id": "21239672"
+    },
+    {
+        "query": "Is there a link between Erythromycin use and an increased risk of developing hypertrophic pyloric stenosis?",
+        "referenced_doc_id": "21239672"
+    },
+    {
+        "query": "What is the approximate number of pneumonia cases in young children globally every year?",
+        "referenced_doc_id": "9167230"
+    },
+    {
+        "query": "What type of exercise best exercises to build strength and endurance?",
+        "referenced_doc_id": "12631697"
+    },
+    {
+        "query": "Does Tirasemtiv primarily target fast-twitch muscle fibers in athletes and individuals with muscular dystrophy?",
+        "referenced_doc_id": "12631697"
+    },
+    {
+        "query": "What are trans-acting factors?",
+        "referenced_doc_id": "13763195"
+    },
+    {
+        "query": "What are the mechanisms by which long non-coding RNAs (lncRNAs) affect protein synthesis and cellular function?",
+        "referenced_doc_id": "13763195"
+    },
+    {
+        "query": "What are the key factors that affect the process of translating messenger RNA (mRNA) into proteins in eukaryotic cells?",
+        "referenced_doc_id": "13763195"
+    },
+    {
+        "query": "What role do long non-coding RNAs play in regulating gene expression through translation?",
+        "referenced_doc_id": "13763195"
+    },
+    {
+        "query": "What role do long non-coding RNAs play in regulating gene expression?",
+        "referenced_doc_id": "13763195"
+    },
+    {
+        "query": "What is the role of transcription factor EB in the context of inflammation when it comes to cells infected by Staphylococcus aureus?",
+        "referenced_doc_id": "24177706"
+    },
+    {
+        "query": "Is it possible for human glial progenitor cells to be successfully transplanted and grow in another host organism?",
+        "referenced_doc_id": "16284655"
+    },
+    {
+        "query": "What is the role of a specific protein called FN in the treatment and regeneration of aged muscles?",
+        "referenced_doc_id": "19912367"
+    },
+    {
+        "query": "What is the role of a specific protein in restoring muscle regeneration?",
+        "referenced_doc_id": "19912367"
+    },
+    {
+        "query": "What is the molecular fingerprint of the immune response in tuberculous granulomas compared to normal tissue?",
+        "referenced_doc_id": "3475317"
+    },
+    {
+        "query": "Does tuberculosis-related inflammation display distinct immunological profiles compared to adjacent healthy tissues?",
+        "referenced_doc_id": "3475317"
+    },
+    {
+        "query": "What is the relationship between radiation therapy and the development of second malignancies in children with Hodgkin lymphoma?",
+        "referenced_doc_id": "1649738"
+    },
+    {
+        "query": "What role does type 1 diabetes play in the immune system's maturation process?",
+        "referenced_doc_id": "13940200"
+    },
+    {
+        "query": "What role do T-reg cells play in the pathogenesis of Type 1 diabetes?",
+        "referenced_doc_id": "13940200"
+    },
+    {
+        "query": "Is there a known link between type 1 diabetes and the development of T regulatory cells?",
+        "referenced_doc_id": "11899391"
+    },
+    {
+        "query": "Does ultrasound guidance help minimize the need for repeated needle insertions during medical procedures?",
+        "referenced_doc_id": "15482274"
+    },
+    {
+        "query": "What is the effect of ultrasound guidance on the frequency and necessity of needle insertions during medical procedures?",
+        "referenced_doc_id": "15482274"
+    },
+    {
+        "query": "Can ultrasound guidance reduce the incidence of painful and invasive medical procedures?",
+        "referenced_doc_id": "15482274"
+    },
+    {
+        "query": "Does ultrasound guidance reduce unnecessary needle insertions in medical procedures?",
+        "referenced_doc_id": "15482274"
+    },
+    {
+        "query": "What is the main reason for developing tyrosine-kinase inhibitor resistance?",
+        "referenced_doc_id": "9505402"
+    },
+    {
+        "query": "What role does tyrosine kinase play in cancer development?",
+        "referenced_doc_id": "9505402"
+    },
+    {
+        "query": "Does viral infections enhance the immune response of CD4+ T cells in the lungs?",
+        "referenced_doc_id": "19005293"
+    },
+    {
+        "query": "Does vaccinating the digestive system provide long-term protection for the rectum and vagina?",
+        "referenced_doc_id": "13764090"
+    },
+    {
+        "query": "What is the primary benefit of vaccinating the gastrointestinal tract in terms of protecting other parts of the body?",
+        "referenced_doc_id": "13764090"
+    },
+    {
+        "query": "What is the purpose of vaccinating the gastrointestinal tract?",
+        "referenced_doc_id": "13764090"
+    },
+    {
+        "query": "What impact do different levels of Epidermal Growth Factor Binding protein 2 (EBI2) have on the movement and placement of B cells?",
+        "referenced_doc_id": "15488881"
+    },
+    {
+        "query": "What is the impact on the movement of B cells when the intensity of the EBV infection (EBI2) varies?",
+        "referenced_doc_id": "15058155"
+    },
+    {
+        "query": "What is the mechanism by which the VgrG (Tssl) protein functions to create a pore in cell membrane?",
+        "referenced_doc_id": "4406819"
+    },
+    {
+        "query": "Does low vitamin D levels during pregnancy have an impact on fetal growth?",
+        "referenced_doc_id": "2425364"
+    },
+    {
+        "query": "What role does vitamin D play in determining the optimal birth weight?",
+        "referenced_doc_id": "2425364"
+    },
+    {
+        "query": "What role does vitamin D play in regulating parathyroid hormone levels?",
+        "referenced_doc_id": "16256507"
+    },
+    {
+        "query": "Is there a direct link between vitamin D levels and parathyroid function?",
+        "referenced_doc_id": "16256507"
+    },
+    {
+        "query": "Was walking in traffic areas in London beneficial for elderly adults' lung function?",
+        "referenced_doc_id": "21003930"
+    },
+    {
+        "query": "Did walking in London's traffic areas have a positive effect on the lung function of elderly adults?",
+        "referenced_doc_id": "21003930"
+    },
+    {
+        "query": "Did walking in busy streets of London affect lung function in older people?",
+        "referenced_doc_id": "21003930"
+    },
+    {
+        "query": "What percentage of deaths among women is attributed to pneumonia?",
+        "referenced_doc_id": "2488880"
+    },
+    {
+        "query": "Does mice require adhesion protein (YAP)/tazarotere (TAZ) to support intestinal regeneration?",
+        "referenced_doc_id": "13481880"
+    },
+    {
+        "query": "Is an immunoprotective pathway involving YAP and TAZ genes essential for healing the damaged intestinal tissues during ulcerative colitis?",
+        "referenced_doc_id": "13481880"
+    },
+    {
+        "query": "What is the role of AKPcZ in regulating glutamine metabolism and its impact on tumour suppression?",
+        "referenced_doc_id": "17755060"
+    },
+    {
+        "query": "What is the relationship between AKPCh and its role in suppressing cancer cells?",
+        "referenced_doc_id": "17755060"
+    },
+    {
+        "query": "What type of molecular machinery is necessary to decode NRN (nucleotide) codons accurately in eukaryotic cells?",
+        "referenced_doc_id": "2890952"
+    },
+    {
+        "query": "What role does miR-142-5P play in regulating body temperature?",
+        "referenced_doc_id": "6766459"
+    },
+    {
+        "query": "What is the function of miR-142-5P?",
+        "referenced_doc_id": "6766459"
+    },
+    {
+        "query": "What role do microRNAs play in regulating gene expression and maintaining cellular homeostasis?",
+        "referenced_doc_id": "12440953"
+    },
+    {
+        "query": "What is the effect of knocking down A20 on cancer cell growth?",
+        "referenced_doc_id": "33370"
+    },
+    {
+        "query": "Here is the revised formulation:\n\nIs reducing A20 through siRNA intervention beneficial for slowing tumor growth in mouse models?",
+        "referenced_doc_id": "38355793"
+    },
+    {
+        "query": "What role do A20 play in cancer development?",
+        "referenced_doc_id": "38355793"
+    },
+    {
+        "query": "What role does siRNA knockdown of A20 play in slowing down tumor progression in a specific type of cancer study?",
+        "referenced_doc_id": "38355793"
+    },
+    {
+        "query": "What is the process by which beta-sheets open in a protein?",
+        "referenced_doc_id": "2617858"
+    }
+]
